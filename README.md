@@ -2,7 +2,7 @@
 A program that plays the spot the football game used by BOTB and British Newspapers. 
 
 
-## Unet- Final
+## Unet - Final.py
 
 This code trains a model to pick up areas of distortion where the ball has been removed from the original images.
 Pictures submitted must have their height and width be divisible by 32 i.e (h%32 ==0, w%32 == 0).
@@ -27,4 +27,10 @@ Encoder and Encoder weights can be found in Semantic Segmentation models by http
 
 Uncomment Lines 392 - EOF to save a predicted mask.
 
-##
+## Gan_training.py
+Run gan training with the same masks and images as for Unet - Final.py
+
+
+## Combine_models.py
+
+
