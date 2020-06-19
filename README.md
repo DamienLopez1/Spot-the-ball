@@ -10,9 +10,12 @@ Pictures submitted must have their height and width be divisible by 32 i.e (h%32
 Required for training is a folder of masks and training images. A mask will be a black background with a white area to show where the ball used to be , the training image is that of your typical spot the ball challenge image. 
 
 In example images: 
+
 gt_mask.png : Ground truth mask
+
 image7.png : Training Image
-pr_mask : Mask shozwing predicted location of ball
+
+pr_mask : Mask showing predicted location of ball
 
 Lines 17-24 specify the file path to your pictures and the associated masks.
 
