@@ -27,4 +27,4 @@ Encoder and Encoder weights can be found in Semantic Segmentation models by http
 
 Uncomment Lines 392 - EOF to save a predicted mask.
 
-#
+##
