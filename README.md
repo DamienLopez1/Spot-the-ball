@@ -47,7 +47,9 @@ Line 242 : mask = find_ball('image7.png')
 
 Line 245: undoctor('image7.jpg','mask.jpg')
 
-Change 'image7' to the name of your image to output the location of a ball and generate a ball in that location all in one go. Note Unet - Final.py must have been run to create ./best_model.pth.
+Change 'image7' to the name of your image to output the location of a ball and generate a ball in that location all in one go. 
+
+Note: Unet - Final.py must have been run to create ./best_model.pth.
 
 
 
