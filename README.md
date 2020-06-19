@@ -21,10 +21,10 @@ Lines 17-24 specify the file path to your pictures and the associated masks.
 
 Lines 207-210 specify the hyperparameters used:
 
-ENCODER = 'resnext50_32x4d'
-ENCODER_WEIGHTS = 'imagenet'
-ACTIVATION = 'sigmoid' 
-DEVICE = 'cuda'
+  ENCODER = 'resnext50_32x4d', 
+  ENCODER_WEIGHTS = 'imagenet', 
+  ACTIVATION = 'sigmoid',  
+  DEVICE = 'cuda'
 
 Encoder and Encoder weights can be found in Semantic Segmentation models by https://github.com/qubvel/segmentation_models.pytorch
 
