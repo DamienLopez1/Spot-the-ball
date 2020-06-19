@@ -1,0 +1,3 @@
+Download https://github.com/qubvel/segmentation_models.pytorch
+
+In 'segmentation_models.pytorch-master\segmentation_models_pytorch\util' replace train.py with train.py from this repository.
